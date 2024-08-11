@@ -13,7 +13,7 @@ I am a freelance frontend developer and web designer.
 * Blender
 
 
-* Connect with me:
+Connect with me:
 
 * Portfolio: https://
 * Linkedin: https://www.linkedin.com/in/rahul-rawat-00p/
