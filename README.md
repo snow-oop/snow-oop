@@ -2,7 +2,7 @@
 
 I am a freelance frontend developer and web designer.
 
-🪛 My go to tech-stack:
+<!--🪛 My go to tech-stack:
 
 * React/NextJS
 * React-Three-Fiber
@@ -11,6 +11,7 @@ I am a freelance frontend developer and web designer.
 * TailwindCSS
 * Figma
 * Blender
+--!>
 
 
 Connect with me:
