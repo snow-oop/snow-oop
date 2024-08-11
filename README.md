@@ -1,5 +1,5 @@
 ## Hi there 👋I'm Rahul
-<!--
+
 I am a freelance frontend developer and web designer.
 
 🪛 My go to tech-stack:
@@ -19,4 +19,4 @@ Portfolio: https://
 Linkedin: https://www.linkedin.com/in/rahul-rawat-00p/
 YouTube: https://www.youtube.com/channel/
 Instagram: https://www.instagram.com/
---!>
+
