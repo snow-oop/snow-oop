@@ -6,17 +6,17 @@ I am a freelance frontend developer and web designer.
 
 * React/NextJS
 * React-Three-Fiber
--Framer motion
--Contentful
--TailwindCSS
--Figma
--Blender
+* Framer motion
+* Contentful
+* TailwindCSS
+* Figma
+* Blender
 
 
-Connect with me:
+* Connect with me:
 
-Portfolio: https://
-Linkedin: https://www.linkedin.com/in/rahul-rawat-00p/
-YouTube: https://www.youtube.com/channel/
-Instagram: https://www.instagram.com/
+* Portfolio: https://
+* Linkedin: https://www.linkedin.com/in/rahul-rawat-00p/
+* YouTube: https://www.youtube.com/channel/
+* Instagram: https://www.instagram.com/
 
